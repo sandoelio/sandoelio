@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, eu sou Sandoélio Silva</h1>
-<h3 align="center">Sou Analista de Sistemas Fullstack</h3>
+<h3 align="center">Sou Analista e desenvolvedor de Sistemas </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandoelio&label=Profile%20views&color=0e75b6&style=flat" alt="sandoelio" /> </p>
 
