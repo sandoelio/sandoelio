@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=sandoelio&label=Profile%20views&color=0e75b6&style=flat" alt="sandoelio" /> </p>
 <h3 align="center">Sou Analista e Desenvolvedor de Sistemas </h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandoelio-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandoelio-silva/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandoelio-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandoelio-silva/" height="30" width="40" /></a>
 </p>
 <i align="center">Sobre quem sou hoje, valorizo profundamente a imagem que construí de mim mesmo - uma pessoa resiliente e extremamente determinada quando algo faz sentido em minha vida. No ambiente de trabalho, acredito na força da equipe. Tudo funciona de maneira mais eficaz quando desempenhamos nossas funções pensando no coletivo, com objetivos alinhados. Sou reconhecido por minha alegria, que traz leveza a processos delicados, promovendo um ambiente de trabalho em harmonia.
 Estou em busca de uma oportunidade para continuar fazendo a diferença no ambiente organizacional. Quero construir uma carreira sólida e alcançar meus objetivos pessoais e profissionais, contribuindo para o sucesso da empresa e crescendo junto com ela.</i>
