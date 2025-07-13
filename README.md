@@ -1,13 +1,16 @@
 <h1 align="center">Olá, bom ter você por aqui! Me chamo Sandoélio Silva</h1>
-<h3 align="left">Sobre mim:</h3> <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sandoelio&label=Profile%20views&color=0e75b6&style=flat" alt="sandoelio" /> </p>
-<h3 align="center">Sou Analista e Desenvolvedor de Sistemas </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sandoelio-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandoelio-silva/" height="30" width="40" /></a>
-</p>
-<i align="center">Sobre quem sou hoje, valorizo profundamente a imagem que construí de mim mesmo - uma pessoa resiliente e extremamente determinada quando algo faz sentido em minha vida. No ambiente de trabalho, acredito na força da equipe. Tudo funciona de maneira mais eficaz quando desempenhamos nossas funções pensando no coletivo, com objetivos alinhados. Sou reconhecido por minha alegria, que traz leveza a processos delicados, promovendo um ambiente de trabalho em harmonia.
-Estou em busca de uma oportunidade para continuar fazendo a diferença no ambiente organizacional. Quero construir uma carreira sólida e alcançar meus objetivos pessoais e profissionais, contribuindo para o sucesso da empresa e crescendo junto com ela.</i>
-</br></br>
+
+<i align="center">
+Desenvolvedor Web Full Stack com foco em PHP (Laravel), JavaScript (Vue.js) e soluções educacionais gamificadas. Apaixonado por transformar ideias em sistemas funcionais, criativos e acessíveis. </i>
+
+## 🚀 Sobre Mim 
+
+🎯 Tenho mais de 4 anos de experiência como analista e desenvolvedor.  
+📍 Sou de Salvador/BA.  
+🏀 Apaixonado por basquete, bonsai, música e tecnologia.  
+🧠 Estou sempre buscando aprender novas arquiteturas como **event-driven**, bancos NoSQL e boas práticas de clean code.  
+</i>
+</br>
 <h3 align="left">Ferramentas do DEV:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -73,10 +76,32 @@ Estou em busca de uma oportunidade para continuar fazendo a diferença no ambien
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 </p>
-
-<div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandoelio&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=sandoelio&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  
 </div>
+
+## 📈 Estatísticas GitHub
+
+![Sandoélio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandoelio&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandoelio&layout=compact&theme=radical)
+
+---
+
+## 📌 Projetos em Destaque
+
+- 🔧 [E‑Chamados](https://github.com/sandoelio/E-Chamados) — sistema de chamados em PHP nativo.  
+- 📊 [Sistema de Habilidades no Basquete](https://github.com/sandoelio/habilidades-basquete) — app para análise e gráfico comparativo de desempenho.  
+- 🧩 [Sistema Gamificado de Enigmas](https://github.com/sandoelio/crud-eleicoes-gerenciamento-de-candidatos-e-votos) — desafios e pontuações para alunos.
+
+---
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/sandoelio-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandoelio-silva/" height="30" width="40" /></a> <br>
+
+[![Gmail](https://img.shields.io/badge/-sandoelio@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sandoelios@gmail.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Se gostou de algum projeto, deixe uma estrela ⭐ ou entre em contato para trocar ideias!
 
 
